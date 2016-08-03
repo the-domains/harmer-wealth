@@ -1,4 +1,4 @@
-typography_spectrum: 0.8818396877031773
+typography_spectrum: 0.9593680370599031
 color:
   brandStrength: 0.8441960117779672
   lightness: 0.040955410804599524
@@ -10,7 +10,7 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
-layout_spectrum: 0.8517362121492624
+layout_spectrum: 0.933490086812526
 author:
   name: Chad Harmer
   email: Chad.Harmer@yahoo.ca
