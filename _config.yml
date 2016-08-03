@@ -1,14 +1,14 @@
-layout_spectrum: 0.9688733094371855
-typography_spectrum: 0.911807797383517
+layout_spectrum: 0.2566976335365325
+typography_spectrum: 0.8552778121083975
 color:
-  brandStrength: 0.09626282937824726
-  lightness: 0.6823748101014644
-  saturation: 0.2125141874421388
-  rhythmicContrast: 0.7277985450346023
+  brandStrength: 0.7453859930392355
+  lightness: 0.3146880075801164
+  saturation: 0.9216606603004038
+  rhythmicContrast: 0.366087575443089
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#5B5B5B'
-    - '#AAAAAA'
-    - '#FED77C'
+    - '#010101'
+    - '#333333'
+    - '#FEFEFE'
+    - '#8D8D8D'
+    - '#BEBEBE'
 name: Harmer Wealth
