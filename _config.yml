@@ -1,15 +1,15 @@
-typography_spectrum: 0.911807797383517
+typography_spectrum: 0.7570097509305924
 color:
-  brandStrength: 0.09626282937824726
-  lightness: 0.6823748101014644
-  saturation: 0.2125141874421388
-  rhythmicContrast: 0.7277985450346023
+  brandStrength: 0.6019637200515717
+  lightness: 0.5757981617935002
+  saturation: 0.666620877571404
+  rhythmicContrast: 0.1496497979387641
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#0D0D0D'
+    - '#2F2F2F'
+    - '#636363'
+    - '#FCFCFC'
+    - '#868686'
 layout_spectrum: 0.9688733094371855
 author:
   name: Walter Harmer
