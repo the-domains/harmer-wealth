@@ -1,20 +1,24 @@
-typography_spectrum: 0.7570097509305924
+typography_spectrum: 0.911807797383517
 color:
-  brandStrength: 0.6019637200515717
-  lightness: 0.5757981617935002
-  saturation: 0.666620877571404
-  rhythmicContrast: 0.1496497979387641
+  brandStrength: 0.09626282937824726
+  lightness: 0.6823748101014644
+  saturation: 0.2125141874421388
+  rhythmicContrast: 0.7277985450346023
   brandColors:
-    - '#0D0D0D'
-    - '#2F2F2F'
-    - '#636363'
-    - '#FCFCFC'
-    - '#868686'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 layout_spectrum: 0.9688733094371855
 author:
   name: Walter Harmer
   email: Chad.Harmer@yahoo.ca
   url: HarmerWealth.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a82c8663-e767-4654-be71-0ac057920b72.png
 name: Harmer Wealth
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fdd2ca-f5ba-4bf8-8c8b-c38329f59a34.png
 title: Harmer Wealth Management
 description: 'Your Wealth: Discover the possibility'
