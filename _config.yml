@@ -11,6 +11,10 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.9688733094371855
+author:
+  name: Chad Harmer
+  email: Chad.Harmer@yahoo.ca
+  url: HarmerWealth.com
 name: Harmer Wealth
 title: Harmer Wealth Management
 description: 'Your Wealth: Discover the possibility'
