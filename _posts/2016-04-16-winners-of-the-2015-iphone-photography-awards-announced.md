@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-03T06:37:43.339Z'
+datePublished: '2016-08-03T23:49:25.300Z'
 sourcePath: _posts/2016-04-16-winners-of-the-2015-iphone-photography-awards-announced.md
 inFeed: true
-isBasedOnUrl: 'http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/'
-hasPage: false
+hasPage: true
 keywords:
   - ippawards
   - photographers
@@ -18,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T06:37:41.789Z'
+dateModified: '2016-08-03T23:49:24.436Z'
 title: Winners of the 2015 iPhonePhotography Awards Announced
 app_links: []
 publisher:
@@ -34,6 +33,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: winners-of-the-2015-iphonephotography-awards-announced/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
