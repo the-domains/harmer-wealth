@@ -6,9 +6,9 @@ color:
   saturation: 0.2125141874421388
   rhythmicContrast: 0.7277985450346023
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#FFFFFF'
+    - '#5B5B5B'
+    - '#AAAAAA'
+    - '#FED77C'
 name: Harmer Wealth
