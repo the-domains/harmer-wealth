@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:27:37.589Z'
+datePublished: '2016-08-04T01:36:12.990Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T01:27:36.527Z'
+dateModified: '2016-08-04T01:36:11.802Z'
 title: We find opportunity.
 app_links: []
 publisher:
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg" /><h1>Disciplined private wealth management.</h1><p>The investment business can be emotional, but through decades of market ups and downs, we have developed a disciplined process and bedrock investment principles that allow us to take a calm and rational approach on behalf of our clients.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg" /><h1>What We Do</h1><p>The investment business can be emotional, but through decades of market ups and downs, we have developed a disciplined process and bedrock investment principles that allow us to take a calm and rational approach on behalf of our clients.</p></article>
 
 **We protect capital**
 
