@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:17:51.720Z'
+datePublished: '2016-08-04T01:27:37.589Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T01:17:51.165Z'
+dateModified: '2016-08-04T01:27:36.527Z'
 title: We find opportunity.
 app_links: []
 publisher:
@@ -26,7 +26,7 @@ publisher:
   favicon: >-
     https://7184be859e18174b847e-601d5e978daa0c1fb99ce75829e6c206.ssl.cf2.rackcdn.com/or-favicon.png
   domain: alphauniverse.com
-description: We protect capital.
+description: We protect capital
 inLanguage: en
 inNav: false
 starred: false
@@ -37,7 +37,7 @@ _type: MediaObject
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg" /><h1>Disciplined private wealth management.</h1><p>The investment business can be emotional, but through decades of market ups and downs, we have developed a disciplined process and bedrock investment principles that allow us to take a calm and rational approach on behalf of our clients.</p></article>
 
-**We protect capital.**
+**We protect capital**
 
 **We study political and global economic events, look for secular trends, track relevant supply and demand statistics, research and scrutinize individual securities, and employ innovative techniques such as portfolio insurance---all with the goal of protecting the capital that our clients have entrusted with us.**
 
