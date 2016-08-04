@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:36:12.990Z'
+datePublished: '2016-08-04T02:03:06.237Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,8 +17,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T01:36:11.802Z'
-title: We find opportunity.
+dateModified: '2016-08-04T02:03:05.746Z'
+title: What We Do
 app_links: []
 publisher:
   url: ''
@@ -26,7 +26,11 @@ publisher:
   favicon: >-
     https://7184be859e18174b847e-601d5e978daa0c1fb99ce75829e6c206.ssl.cf2.rackcdn.com/or-favicon.png
   domain: alphauniverse.com
-description: We protect capital
+description: >-
+  The investment business can be emotional, but through decades of market ups
+  and downs, we have developed a disciplined process and bedrock investment
+  principles that allow us to take a calm and rational approach on behalf of our
+  clients.
 inLanguage: en
 inNav: false
 starred: false
@@ -35,7 +39,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg" /><h1>What We Do</h1><p>The investment business can be emotional, but through decades of market ups and downs, we have developed a disciplined process and bedrock investment principles that allow us to take a calm and rational approach on behalf of our clients.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a067ace5-4e06-4233-b996-d02b9fa867a6.jpg)
+
+# What We Do
+
+The investment business can be emotional, but through decades of market ups and downs, we have developed a disciplined process and bedrock investment principles that allow us to take a calm and rational approach on behalf of our clients.
 
 **We protect capital**
 
