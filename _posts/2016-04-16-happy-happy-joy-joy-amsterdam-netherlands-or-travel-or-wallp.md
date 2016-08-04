@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:03:39.711Z'
+datePublished: '2016-08-04T01:28:35.393Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -19,18 +19,12 @@ keywords:
   - penang
   - on-table
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-04T01:03:39.077Z'
+dateModified: '2016-08-04T01:28:34.844Z'
 title: 'Your Wealth: Discover the possibility'
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
+publisher: {}
 description: >-
   Our Private Client Investment Counselling is grounded on communication and
   understanding: we strive to gain an in-depth knowledge of our clients’ unique
