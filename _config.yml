@@ -1,16 +1,16 @@
-typography_spectrum: 0.911807797383517
+typography_spectrum: 0.9666884746402502
 color:
-  brandStrength: 0.09626282937824726
-  lightness: 0.6823748101014644
-  saturation: 0.2125141874421388
-  rhythmicContrast: 0.7277985450346023
+  brandStrength: 0.3312989918049425
+  lightness: 0.5838175842072815
+  saturation: 0.303149557672441
+  rhythmicContrast: 0.8895382271148264
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.9688733094371855
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+layout_spectrum: 0.670940964249894
 author:
   name: Walter Harmer
   email: Chad.Harmer@yahoo.ca
