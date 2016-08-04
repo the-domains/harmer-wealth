@@ -22,6 +22,9 @@ navigation:
   - name: About Us
     id: 78d4c8fa-b709-4c46-9557-dd836bee6870
     type: content
+  - name: Contact Us
+    id: d092392a-0557-4115-90ca-df4511f7ef93
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fdd2ca-f5ba-4bf8-8c8b-c38329f59a34.png
 title: Harmer Wealth Management
