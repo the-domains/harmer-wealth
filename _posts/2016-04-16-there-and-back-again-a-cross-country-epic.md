@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T00:43:25.631Z'
+datePublished: '2016-08-04T00:48:53.824Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - garment
 related: []
 author: []
-dateModified: '2016-08-04T00:43:24.205Z'
+dateModified: '2016-08-04T00:48:53.274Z'
 title: 'There & Back Again: A Cross-Country Epic'
 app_links: []
 publisher:
