@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T02:17:26.324Z'
+datePublished: '2016-08-04T02:56:45.106Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T02:17:24.275Z'
+dateModified: '2016-08-04T02:56:44.655Z'
 title: What We Do
 app_links: []
 publisher: {}
