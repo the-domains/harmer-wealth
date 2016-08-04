@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:28:35.393Z'
+datePublished: '2016-08-04T01:31:53.302Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -21,10 +21,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T01:28:34.844Z'
+dateModified: '2016-08-04T01:31:52.183Z'
 title: 'Your Wealth: Discover the possibility'
 app_links: []
-publisher: {}
+publisher:
+  name: Harmer Wealth Management | Who We Are
 description: >-
   Our Private Client Investment Counselling is grounded on communication and
   understanding: we strive to gain an in-depth knowledge of our clients’ unique
