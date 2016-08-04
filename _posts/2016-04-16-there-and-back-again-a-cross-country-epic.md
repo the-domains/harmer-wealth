@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T03:00:08.083Z'
+datePublished: '2016-08-04T03:13:39.882Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T02:59:03.912Z'
+dateModified: '2016-08-04T03:13:39.409Z'
 title: What We Do
 app_links: []
 publisher: {}
@@ -46,7 +46,7 @@ The investment business can be emotional, but through decades of market ups and 
 
 ### **We find opportunity.**
 
-**Over time, investments such as stocks, bonds, commodities and real estate fluctuate in value. At Cumberland we invest in areas that are undervalued, and avoid those that are overvalued. This approach has helped our team outperform throughout significant market events and cycles from the 1970s to the present.**
+**Over time, investments such as stocks, bonds, commodities and real estate fluctuate in value. At Harmer Wealth Management we invest in areas that are undervalued, and avoid those that are overvalued. This approach has helped our team outperform throughout significant market events and cycles from the 1970s to the present.**
 
 ### **We focus on you.**
 
