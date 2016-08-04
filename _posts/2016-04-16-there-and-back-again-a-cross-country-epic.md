@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T02:03:06.237Z'
+datePublished: '2016-08-04T02:06:37.400Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 hasPage: true
@@ -17,15 +17,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T02:03:05.746Z'
+dateModified: '2016-08-04T02:06:36.663Z'
 title: What We Do
 app_links: []
-publisher:
-  url: ''
-  name: Harmer Wealth Management | What We Do
-  favicon: >-
-    https://7184be859e18174b847e-601d5e978daa0c1fb99ce75829e6c206.ssl.cf2.rackcdn.com/or-favicon.png
-  domain: alphauniverse.com
+publisher: {}
 description: >-
   The investment business can be emotional, but through decades of market ups
   and downs, we have developed a disciplined process and bedrock investment
