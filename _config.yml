@@ -18,16 +18,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a82c8663-e767-4654-be71-0ac057920b72.png
 name: Harmer Wealth
-navigation:
-  - name: Contact Us
-    id: 78d4c8fa-b709-4c46-9557-dd836bee6870
-    type: content
-  - name: What We Think
-    id: d092392a-0557-4115-90ca-df4511f7ef93
-    type: content
-  - name: What We Do
-    id: 306c07d9-b062-4251-b5bb-f0f7a053db85
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fdd2ca-f5ba-4bf8-8c8b-c38329f59a34.png
 title: Harmer Wealth Management
