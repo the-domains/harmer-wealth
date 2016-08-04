@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:33:27.933Z'
+datePublished: '2016-08-04T02:33:10.215Z'
 sourcePath: >-
   _posts/2016-04-16-grand-cafe-de-tropen-amsterdam-netherlands-or-travel-or-wall.md
 inFeed: true
@@ -17,23 +17,15 @@ keywords:
   - hoi-sin
   - white-streaked
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-04T01:33:27.063Z'
-title: What We Think
+dateModified: '2016-08-04T02:33:09.574Z'
+title: See What We Can Do For You
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
+publisher: {}
 description: >-
-  To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally
-  known as the Royal Tropical Institute, is not the first place you'd think of
-  for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately
-  Dutch Gothic Revival pile was designed by J.J.
+  Please telephone us on 1or submit a contact form to learn more about
+  Cumberland Private Wealth Management.
 inLanguage: en
 inNav: false
 starred: false
@@ -42,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167fcc4d66d410506a1edb29bd3162345bc27b71.jpg" /><h1>What We Think</h1><p>To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally known as the Royal Tropical Institute, is not the first place you'd think of for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately Dutch Gothic Revival pile was designed by J.J.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9131b3df-a7e7-41b2-969d-b4171e8948d3.jpg)
