@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-04T03:00:11.649Z'
+datePublished: '2016-08-04T03:02:04.901Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - jasper
   - dining
@@ -21,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T02:59:05.934Z'
+dateModified: '2016-08-04T03:02:03.930Z'
 title: 'Your Wealth: Discover the possibility'
 app_links: []
 publisher: {}
@@ -35,6 +33,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: true
+url: your-wealth-discover-the-possibility/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
