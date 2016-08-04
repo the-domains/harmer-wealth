@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:06:19.522Z'
+datePublished: '2016-08-04T01:08:18.194Z'
 sourcePath: _posts/2016-04-16-winners-of-the-2015-iphone-photography-awards-announced.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T01:06:18.275Z'
+dateModified: '2016-08-04T01:08:17.156Z'
 title: Winners of the 2015 iPhonePhotography Awards Announced
 app_links: []
 publisher:
