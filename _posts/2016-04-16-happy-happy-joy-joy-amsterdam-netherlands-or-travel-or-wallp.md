@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T06:36:49.415Z'
+datePublished: '2016-08-04T00:34:36.255Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -23,8 +23,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-03T06:36:49.059Z'
-title: 'Happy Happy Joy Joy, Amsterdam, Netherlands'
+dateModified: '2016-08-04T00:34:35.483Z'
+title: 'Your Wealth: Discover the possibility'
 app_links: []
 publisher:
   name: Wallpaper*
@@ -32,10 +32,12 @@ publisher:
   url: 'http://www.wallpaper.com'
   favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
 description: >-
-  Things just got a little spicier in the thriving Amsterdam enclave of Old
-  West. Chef Julius Jaspers has teamed up with design studio Concrete to create
-  a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's
-  as loose and playful as its name implies.
+  Our Private Client Investment Counselling is grounded on communication and
+  understanding: we strive to gain an in-depth knowledge of our clients’ unique
+  circumstances and objectives. To develop this holistic understanding, your
+  dedicated Investment Counsellor will work with you to create a customized
+  investment portfolio that reflects your time horizon and individual investment
+  goals.       
 inLanguage: en
 inNav: false
 starred: true
@@ -43,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg" /><h1>Happy Happy Joy Joy, Amsterdam, Netherlands</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg" /><h1>Your Wealth: Discover the possibility</h1><p>Our Private Client Investment Counselling is grounded on communication and understanding: we strive to gain an in-depth knowledge of our clients’ unique circumstances and objectives. To develop this holistic understanding, your dedicated Investment Counsellor will work with you to create a customized investment portfolio that reflects your time horizon and individual investment goals. </p></article>
